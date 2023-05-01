@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Atomic Heart",
+        
+        "id": 1,
+        "isFeatured": true,
+        "isFavorite": true,
+        "Genre": "First Person Shooter",
+        "description": "In a mad and sublime utopian world, take part in explosive encounters. Adapt your fighting style to each opponent, use your environment and upgrade your equipment to fulfill your mission. If you want to reach the truth, you'll have to pay in blood.",
+        "imageName": "Atomic Heart"
+    },
+    {
+        "name": "Wo Long",
+        "id": 2,
+        "isFeatured": false,
+        "isFavorite": false,
+        "Genre": "First Person Shooter",
+        "description": "Wo Long: Fallen Dynasty is a dramatic, action-packed story of a nameless militia soldier fighting for survival in a dark fantasy version of the Later Han Dynasty where demons plague the Three Kingdoms.",
+        "imageName": "Wo Long"
+    }
+    ,
+    {
+        "name": "Shadow Warrior 3",
+        "id": 3,
+        "isFeatured": false,
+        "isFavorite": false,
+        "Genre": "First Person Shooter",
+        "description": "Shadow Warrior 3 is a first-person shooter game developed by Flying Wild Hog and published by Devolver Digital. The sequel to Shadow Warrior 2 (2016), the game released for Microsoft Windows, PlayStation 4 and Xbox One on March 1, 2022 and was released for PlayStation 5 and Xbox Series X/S on February 16, 2023.",
+        "imageName": "Shadow Warrior 3"
+    }
+]
